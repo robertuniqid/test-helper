@@ -306,7 +306,11 @@ if(typeof EasyTest == "undefined") {
       _fetchMatchingResultScore : function(scoreCheck) {
         var matchingScore = 0;
 
+        scoreCheck = parseFloat(scoreCheck);
+
         jQuery.each(this.information.result_information, function(resultScore, resultName){
+          resultScore = parseFloat(resultScore);
+
           if(resultScore >= matchingScore && scoreCheck >= resultScore)
             matchingScore = resultScore;
         });
