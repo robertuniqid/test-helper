@@ -187,10 +187,10 @@ if(typeof EasyTest == "undefined") {
                     '</p>';
                   jQuery.each(question.options, function(option, optionScore){
             html += '<div class="option-container" style="' + objectInstance.fetchInlineCSSByDecorationInformation('question-answer-option-container') + '">' +
-                      '<label for="' + this.internalNamespace + '-' + i + '-' + optionScore + '"' +
+                      '<label for="' + objectInstance.internalNamespace + '-' + i + '-' + optionScore + '"' +
                              'style="' + objectInstance.fetchInlineCSSByDecorationInformation('question-answer-option-label') + '"' +
                       '>' + option + '</label>' +
-                      '<input id="' + this.internalNamespace + '-' + i + '-' + optionScore + '" ' +
+                      '<input id="' + objectInstance.internalNamespace + '-' + i + '-' + optionScore + '" ' +
                              'style="' + objectInstance.fetchInlineCSSByDecorationInformation('question-answer-option-radio') + '"' +
                              'type="radio" ' +
                              'name="question_answer[' + i + ']" ' +
