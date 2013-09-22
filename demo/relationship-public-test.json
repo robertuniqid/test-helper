@@ -1,0 +1,124 @@
+{
+  "name"           : "Relationarea cu cei din jur",
+    "description"    : "~ Test ~",
+    "question_split" : 3,
+    "display_score"  : 1,
+    "score_divide"   : 1,
+    "questions" : [
+      {
+        "name"    : "Celorlalti le este usor sa aiba incredere in mine.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Imi place sa imi impartasesc emotiile cu ceilalti.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Pun la cale evenimente care stiu ca plac altora.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Ii ajut pe ceilalti sa se simta bine atunci cand ei se simt dazamagiti.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Unele din evenimentele majore din viata mea m-au determinat sa reanalizez ceea ce este important si ceea ce nu este important.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Cand cineva imi povesteste un eveniment important al vietii sale aproape ca simt ca am trait si eu evenimentul respectiv.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Le fac altora complimente atunci cand au facut ceva bine.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Ma prezint celorlalti intr-o maniera care lasa o impresie buna despre mine.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Stiu cand sa vorbesc celorlalti despre problemele  personale.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Consider emotiile ca fiind unul din lucrurile care imi fac viata sa merite traita.",
+        "options" : {
+          "Dezacord Puternic": 1,
+          "Dezacord Partial" : 2,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 4,
+          "Acord Puternic"   : 5
+        }
+      },
+      {
+        "name"    : "Imi este dificil sa inteleg de ce oamenii simt ceea ce simt.",
+        "options" : {
+          "Dezacord Puternic": 5,
+          "Dezacord Partial" : 4,
+          "Dezacord Mediu"   : 3,
+          "Acord Partial"    : 2,
+          "Acord Puternic"   : 1
+        }
+      }
+    ],
+    "result_information" : {
+      "38"   :  "Relationare foarte buna",
+      "21"   :  "Relationare medie",
+      "11"   :  "Relationare foarte slaba"
+    }
+}

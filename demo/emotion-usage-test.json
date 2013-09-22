@@ -1,0 +1,104 @@
+{
+  "name"           : "Utilizarea Emotiilor",
+  "description"    : "~ Test ~",
+  "question_split" : 3,
+  "display_score"  : 1,
+  "score_divide"   : 1,
+  "questions" : [
+    {
+      "name"    : "Ma astept sa ma descurc bine in marea majoritate a lucrurilor pe care le fac.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "In general astept sa mi se intample lucruri bune.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Caut activitati care ma fac fericit(a).",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Ma motivez in ceea ce fac imaginandu-mi ca voi obtine rezultate bune.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Cand traiesc o emotie pozitiva stiu cum sa o fac sa dureze.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Imi controlez usor emotiile.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Cand sunt in fata unor obstacole, imi amintesc ca si altadata  m-am confruntat cu situatii asemanatoare pe care le-am depasit.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Cand ma aflu in fata unei provocari renunt deoarece cred ca voi da gres",
+      "options" : {
+        "Dezacord Puternic": 5,
+        "Dezacord Partial" : 4,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 2,
+        "Acord Puternic"   : 1
+      }
+    },
+    {
+      "name"    : "Sunt constient(a) de emotiile mele atunci cand le traiesc. ",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    }
+  ],
+  "result_information" : {
+    "30"   :  "Utilizare foarte buna",
+    "15"   :  "Utilizare medie",
+    "9"    :  "Utilizare foarte slaba"
+  }
+}

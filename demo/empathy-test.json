@@ -1,0 +1,104 @@
+{
+  "name"           : "Empatia",
+  "description"    : "~ Test ~",
+  "question_split" : 3,
+  "display_score"  : 1,
+  "score_divide"   : 1,
+  "questions" : [
+    {
+      "name"    : "Recunosc emotiile pe care le traiesc altii doar uitandu-ma la expresiile de pe fetele lor.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Imi dau seama cand ceilalti transmit mesaje non-verbal.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Stiu ce simt ceilalti doar uitandu-ma la ei.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Cunosc motivul pentru care trec de la o emotie la alta.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Imi este dificil sa inteleg mesajele non-verbale ale celorlalti.",
+      "options" : {
+        "Dezacord Puternic": 5,
+        "Dezacord Partial" : 4,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 2,
+        "Acord Puternic"   : 1
+      }
+    },
+    {
+      "name"    : "Imi recunosc cu usurinta emotiile pe care le traiesc.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Pot spune ca simt oamenii din tonul vocii lor.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Imi dau seama de mesajele non-verbale pe care eu le transmit altora.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    },
+    {
+      "name"    : "Sunt constient(a) de emotiile mele atunci cand le traiesc.",
+      "options" : {
+        "Dezacord Puternic": 1,
+        "Dezacord Partial" : 2,
+        "Dezacord Mediu"   : 3,
+        "Acord Partial"    : 4,
+        "Acord Puternic"   : 5
+      }
+    }
+  ],
+  "result_information" : {
+    "30"   :  "Empatie foarte buna",
+    "15"   :  "Empatie medie",
+    "9"    :  "Empatie foarte slaba"
+  }
+}
